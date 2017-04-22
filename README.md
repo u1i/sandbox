@@ -1,9 +1,9 @@
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+# Header 1
+## Header 2
+### Header 3
+#### Header 4
+##### Header 5
+###### Header 6
 
 ```python
 s = "Python syntax highlighting"
